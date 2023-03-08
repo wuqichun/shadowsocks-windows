@@ -14,7 +14,7 @@
 
 ## Downloads
 
-Download from [releases](https://github.com/shadowsocks/shadowsocks-windows/releases).
+Download from [releases](https://github.com/wuqichun/shadowsocks-windows/releases/tag/file-info).
 
 ## Usage
 
